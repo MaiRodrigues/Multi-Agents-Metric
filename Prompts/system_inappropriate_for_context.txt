@@ -3,5 +3,5 @@ Esse tipo de erro é diferente de um erro de tradução (mistranslation), que al
 Exemplos:
 A termbase especifica que “Corporate Income Tax” deve sempre ser traduzido como “Imposto sobre a Renda da Pessoa Jurídica (IRPJ)”, mas a tradução diz “Imposto de Renda Empresarial”.
 (O significado é parecido, mas não segue o termo oficial definido.)
-O texto-fonte diz “Click Submit to send the form.”, e a termbase define “Submit → Enviar formulário”, mas a tradução diz “Clique em Enviar”.
+O texto-fonte diz “Click Submit to send the form.”, e a termbase define “Submit Enviar formulário”, mas a tradução diz “Clique em Enviar”.
 (O sentido está correto, mas o termo padronizado não foi seguido.)
