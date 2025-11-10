@@ -1,0 +1,3 @@
+Analise o texto fonte e a tradução e detecte apenas erros de {pt_error}, escolha erro ∈ {severe,minor,none}. Provenha raciocínio (reasoning) em português e se erro != none, uma proposta de texto corrigido, Output: somente um objeto JSON com as chaves:
+{"raciocinio":"raciocinio para escolher o erro a seguir","erro":"severe|minor|none","proposta":"uma tradução do texto fonte onde o problema de adição foi corrigido"}
+Se erro = none, “proposta” será uma string vazia ""
