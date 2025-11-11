@@ -1,0 +1,9 @@
+Minha avaliação da tradução de máquina foi:
+Avaliação de erro: {severidade}
+Raciocínio:  {raciocinio}
+Proposta de texto corrigido: {proposta}
+
+Meu supervisor discordou da minha avaliação com o seguinte raciocinio e severidade:
+Avaliação de erro: {severidade_su}
+Raciocínio:  {raciocinio_su}
+Proposta de texto corrigido: {proposta_su}

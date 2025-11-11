@@ -1,0 +1,9 @@
+Texto Fonte: {en_source}
+Tradução de Máquina: {pt_machine_translation}
+
+Outro agente especialista no erro de {pt_esp_error}, analisou e chegou no seguinte:
+Avaliação de erro: {severidade}
+Raciocínio:  {raciocinio}
+Proposta de texto corrigido: {proposta}
+
+As possíveis severidades de erro são: severo, pequeno ou none. Dado o raciocínio qual sua confiança na avaliação do agente, escolha entre alta ou baixa, responda em json no seguinte formato: {"confianca":"alta|baixa"}

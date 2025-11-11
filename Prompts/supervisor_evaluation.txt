@@ -1,9 +1,0 @@
-Analise o texto fonte e a tradução e detecte apenas erros de {pt_sup_error}, escolha erro ∈ {severo,pequeno,none}. Provenha raciocínio (reasoning) em português e se erro != none, uma proposta de texto corrigido
-Texto Fonte: {en_source}
-Tradução de Máquina: {pt_machine_translation}
-Um de seus colegas, especialista no erro de {pt_esp_error}, fez uma avaliação de erro: {severidade}
-Raciocínio:  {raciocínio}
-Proposta de texto corrigido: {proposta}
-Como supervisor você deve escolher entre: concordar ou discordar da análise do especialista, se discordar apresentar o raciocínio e a sua nova escolha de erro para a tradução (entre {severo,pequeno,none} ), no seguinte formato json:
-{"raciocinio":"raciocinio para escolher o erro a seguir", “concordancia”:”concordo| discordo”,"erro":"severo|pequeno|none","proposta":"uma tradução do texto fonte onde o problema foi corrigido"}
-Se erro = none ou concordancia = “concordo”, “proposta” será uma string vazia ""
